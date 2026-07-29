@@ -1,6 +1,6 @@
-# Pedro Ferreira
-
-**`Desenvolvedor Front-End`**
+<p align="center">
+  <img src="./banner.svg" alt="Pedro Ferreira — Desenvolvedor Front-End">
+</p>
 
 <p align="center">
   <a href="SEU_LINKEDIN">
