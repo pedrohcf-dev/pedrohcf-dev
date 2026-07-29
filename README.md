@@ -79,3 +79,17 @@ const pedro = {
 - 🌱 **Estudando:** HTML, CSS, JavaScript
 - 🚀 Em busca da minha **primeira oportunidade em Tecnologia**
 - 📍 Rio de Janeiro - RJ
+
+---
+
+## 🚀 Projetos
+
+### ⏰ Digital Clock
+
+Relógio digital responsivo desenvolvido com HTML, CSS e JavaScript.
+
+📂 Repositório:
+https://github.com/pedrohcf-dev/digital-clock
+
+🌐 Projeto Online:
+https://digital-clock-umber-beta.vercel.app/
