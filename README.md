@@ -76,6 +76,6 @@ const pedro = {
 
 - 🎓 **Ciência da Computação** — Universidade Veiga de Almeida
 - 💻 **Foco:** Desenvolvimento Front-End
-- 🌱 **Estudando:** HTML, CSS, JavaScript, C e Git
+- 🌱 **Estudando:** HTML, CSS, JavaScript
 - 🚀 Em busca da minha **primeira oportunidade em Tecnologia**
 - 📍 Rio de Janeiro - RJ
