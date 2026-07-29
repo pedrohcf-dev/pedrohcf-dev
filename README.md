@@ -3,19 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/pedro-henrique-cruz-ferreira-0812093b7/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" hspace="10"/>
   </a>
 
-  <a href="SEU_DISCORD">
-    <img src="https://skillicons.dev/icons?i=discord" width="45" hspace="10"/>
-  </a>
-
-  <a href="SEU_GITHUB">
+  <a href="https://github.com/pedrohcf-dev">
     <img src="https://skillicons.dev/icons?i=github" width="45" hspace="10"/>
   </a>
 
-  <a href="mailto:SEU_EMAIL">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedrohenriquerj67@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" hspace="10"/>
   </a>
 </p>
