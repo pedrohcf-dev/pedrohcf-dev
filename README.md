@@ -93,3 +93,13 @@ https://github.com/pedrohcf-dev/digital-clock
 
 🌐 Projeto Online:
 https://digital-clock-umber-beta.vercel.app/
+
+---
+
+### 🎮 Mario Jump
+
+Jogo do Mario desenvolvido com HTML, CSS e JavaScript.
+
+📂 Repositório: https://github.com/pedrohcf-dev/mario-jump
+
+🌐 Projeto Online: https://mario-jump-gamma-one.vercel.app/
