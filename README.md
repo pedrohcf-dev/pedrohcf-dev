@@ -48,14 +48,16 @@ Concluí o Ensino Médio no **Colégio ELITE**, onde fui bolsista atleta. Atualm
 
 ### 📊 Estatísticas
 
-<p align="center">
+<p align="left">
   <img
     width="500"
-    src="https://github-stats-extended.vercel.app/api?username=pedrohcf-dev&theme=tokyonight&showBorder=false"
+    src="https://github-stats-extended.vercel.app/api?username=pedrohcf-dev&theme=tokyonight&hide_border=true"
   />
+
+
   <img
     width="500"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=pedrohcf-dev&theme=tokyonight&showBorder=false"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=pedrohcf-dev&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
