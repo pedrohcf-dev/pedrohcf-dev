@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/pedrohcfdev/">
+  <a href="www.linkedin.com/in/pedrohcfdev">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" hspace="10"/>
   </a>
 
